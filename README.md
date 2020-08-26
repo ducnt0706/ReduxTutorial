@@ -1,4 +1,4 @@
-![Photo](./assets/logoredux.png)
+->![Photo](./assets/logoredux.png)<-
 
 ---
 
